@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregorywmorris
 - 👀 I’m interested in implementing great products
-- 🌱 I’m currently learning product management and data analysis
-- 💞️ I’m looking to collaborate on... open to new opertunities to learn and explore
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on... open to new opportunities to learn and explore
 - 📫 How to reach me: https://www.linkedin.com/in/gregorywaynemorris/ 
 
 <!---
